@@ -1,1 +1,29 @@
-EDA
+# Exploratory Data Analysis (EDA) Project
+
+## Overview
+
+This repository contains the code and analysis for an Exploratory Data Analysis (EDA) project. 
+The aim of this project is to gain insights into the dataset through non-graphical and graphical analysis, 
+identify patterns, and provide actionable recommendations.
+
+The project is organized into the following sections:
+
+1. **Data Overview **:
+   - Observations on the shape of data.
+   - Data types of all attributes.
+   - Conversion of categorical attributes to 'category' (if required).
+   - Missing value detection.
+   - Statistical summary.
+
+2. **Non-Graphical Analysis **:
+   - Value counts and unique attributes.
+
+3. **Visual Analysis**:
+   - Univariate and bivariate analysis after pre-processing.
+   - Pre-processing involves unnesting data in columns  Country.
+
+4. **Missing Value & Outlier Check**:
+   - box plots for outlier detection
+
+5. **Recommendations**:
+   - Actionable items for business.
